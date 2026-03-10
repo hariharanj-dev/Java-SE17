@@ -1,0 +1,16 @@
+# ignore compiled class files
+*.class
+
+# ignore logs
+*.log
+
+# ignore vscode settings (optional)
+.vscode/
+
+# ignore build folders
+bin/
+out/
+target/
+
+# ignore jar
+*.jar
